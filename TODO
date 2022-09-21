@@ -1,18 +1,3 @@
-1) Perhaps in the future I will use the TODO program to host the TODO, but for now it seems inappropriate.  
-
---
-
-2) Enable notifications (that browser pop-up which asks 'would you like to allow this site to do notifications')
-
---
-
-3) Check out the default app used in the docker tutorial because it's a React
-app and compare it to the uniqueness of this solution, for some inspiration.
-
---
-
-4) Style -- this is a good candidate for the animation techniques which Jordan had demonstrated.
-
 --
 
 5) Change .pendingTodoWrapper class to .pendingTodoUl, because it is not a div.
